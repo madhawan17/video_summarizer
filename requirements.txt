@@ -1,0 +1,8 @@
+fastapi==0.110.0
+uvicorn==0.30.1
+python-multipart==0.0.9
+google-generativeai==0.5.2
+python-dotenv==1.0.1
+starlette
+pydantic==2.7.1
+aiofiles==24.1.0
